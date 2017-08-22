@@ -1,0 +1,13 @@
+<decorators defaultdir="/decorators">
+    <excludes>
+      
+    </excludes>
+    <decorator name="main" page="inner.jsp">
+        <pattern>/new*.jsp</pattern>
+        <pattern>/index*.jsp</pattern>
+        <pattern>/pro*.jsp</pattern>
+        <pattern>/info22</pattern>
+         <pattern>/edit</pattern>
+    </decorator>
+   
+</decorators>
